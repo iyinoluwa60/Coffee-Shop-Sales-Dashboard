@@ -1,17 +1,15 @@
 # Coffee-Shop-Sales-Dashboard
 
-# Charts Requirements
+# The coffee shop chain needed a clear and interactive way to answer key business questions:
 
-- Calender Heat Map that dynamically adjusts based on the selected month from a slicer
+- Which days and hours generate the highest sales?
 
-- Sales analysis by weekdays and weekends
+- How do sales differ between weekdays and weekends?
 
-- Sales analysis by store location
+- Which store locations are performing best?
 
-- Daily Sales analysis with average line
+- Which product categories and products drive the most revenue?
 
-- Sales analysis by Product category
+- How do sales trends evolve throughout the month?
 
-- Top 10 products by sales
-
-- Sales analysis by days and hours
+- Which top products should be prioritized for inventory planning?
